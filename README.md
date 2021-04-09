@@ -389,7 +389,8 @@ for (int i = 1; i < n; ++i) {
 [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) `Hard`
  
 I hope these tips will be helpful 😊
-Follow me for more updates on [Twitter](twitter.com/aatalyk)
+
+Follow me for more updates on [Twitter](https://twitter.com/aatalyk)
 
 # Comments
 
